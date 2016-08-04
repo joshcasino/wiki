@@ -1,0 +1,53 @@
+.login {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  padding-right: 10px;
+  display: inline-block;
+  text-align: ;
+}
+
+.login li {
+  display: inline;
+  text-decoration: none;
+}
+
+.login ul li a {
+text-decoration: none;
+padding: .2em 1em;
+}
+
+.wiki {
+  display: block;
+  width: 10em;
+  height: 160px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-decoration: none;
+}
+
+.top {
+  margin-left: -20px;
+}
+
+.panel {
+  width: 200px;
+  height: 1000px;
+}
+
+.sidebar1 {
+  list-style-type: none;
+  text-align: left;
+}
+
+}
+.sidebar1 li {
+  list-style-type: none;
+  text-decoration: none;
+  text-align: left;
+  margin-right: 20px;
+}
+
+.sidebar1 ul li a{
+  text-decoration: none;
+}
